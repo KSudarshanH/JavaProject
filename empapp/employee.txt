@@ -1,0 +1,21 @@
+ID  Name        Salary   Age
+101 John Doe    50000.0  25
+102 Jane Smith  60000.0  30
+103 Bob Johnson 55000.0  28
+104 Alice       70000.0  35
+105 Charlie     48000.0  26
+106 Emily Davis 52000.0  27
+107 David Lee   65000.0  32
+108 Emma Miller 48000.0  29
+109 Wilson      75000.0  40
+110 Taylor      60000.0  33
+111 Henry       55000.0  28
+112 Adams       70000.0  35
+113 Jack Harris 52000.0  27
+114 Kelly Clark 48000.0  26
+115 Liam Scott  60000.0  30
+116 Maria White 55000.0  28
+117 Nathan Hall 65000.0  32
+118 Olivia      70000.0  35
+119 Peter King  48000.0  29
+120 Rachel      52000.0  27
